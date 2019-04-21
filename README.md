@@ -1,6 +1,4 @@
-
-
-# Christopher H. Todd's Python Python Library For Interacting With AWS
+# Christopher H. Todd's Python Library For Interacting With AWS
 
 The ctodd-python-lib-aws project is responsible for interacting with [Amazon Web Services](https://aws.amazon.com/developer/language/python/). This includes interacting with DynamoDB, Lambda, S3, SNS, and SQS, and will be expanded in the future.
 
